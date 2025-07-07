@@ -10,3 +10,4 @@ Definition: Die [Structured Query Language](https://en.wikipedia.org/wiki/SQL) (
 | Data Control Language (DCL)        | Befehle für die Rechteverwaltung                             | `GRANT ... ON ... TO `<br>`REVOKE ... ON .. FROM` |
 | Transaction Control Language (TCL) | Befehle zur Transaktionskontrolle                            | `COMMIT`<br>`ROLLBACK`                            |
 
+Test 
